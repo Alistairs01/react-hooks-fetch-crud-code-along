@@ -41,6 +41,12 @@
       "category": "Dairy",
       "isInCart": false,
       "id": 7
+    },
+    {
+      "name": "Ovacado",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
